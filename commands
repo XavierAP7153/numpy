@@ -1,3 +1,4 @@
 git init [to initialise git a new folder]
 git status [to check the untracked change]
 git add -A [to add]
+git commit -m  'message' [To commit change in local repository] 
